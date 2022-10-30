@@ -1,7 +1,8 @@
 # Selenium.WebDriver.Allure
 Автотесты на классическом варианте Selenium WebDriver
 
-Открываем папку tests/ в Visual Studio Code
+Открываем проект в Visual Studio Code
+Тесты находятся в папке tests/
 
 Запуск теста можно осуществить двумя способами: 
 1. Через дерево тестов в Visual Studio Code, вкладка TESTING
