@@ -2,6 +2,11 @@
 Автотесты на классическом варианте Selenium WebDriver
 
 Открываем проект в Visual Studio Code
+Устанавливаем необходимые модули
+pip install pytest
+pip install selenium
+pip install webdriver_manager
+pip install allure-pytest
 
 Тесты находятся в папке tests/
 
@@ -11,6 +16,7 @@
 3. Посмотреть отчёты в Allure, в командной строке:
 
 cd <путь до каталога allure\bin>
+(Allure можно скачать по ссылке https://repo.maven.apache.org/maven2/io/qameta/allure/allure-commandline/2.19.0/allure-commandline-2.19.0.zip)
 
 .\allure.bat
 
