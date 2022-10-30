@@ -1,5 +1,5 @@
 # Selenium.WebDriver.Allure
-Автотесты на Selenium
+Автотесты на классическом варианте Selenium WebDriver
 
 Запуск созданного теста можно осуществить двумя способами: 
 1. Через дерево тестов в Visual Studio Code, вкладка TESTING
