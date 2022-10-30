@@ -1,7 +1,7 @@
 # Selenium.WebDriver.Allure
 Автотесты на классическом варианте Selenium WebDriver
 
-Открываем 
+Открываем папку tests/ в Visual Studio Code
 Запуск теста можно осуществить двумя способами: 
 1. Через дерево тестов в Visual Studio Code, вкладка TESTING
 2. Из командной строки: pytest <название теста>
